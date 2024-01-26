@@ -1,4 +1,4 @@
-import tweepy #
+import tweepy #1
 from textblob import TextBlob
 
 consumer_key = 'your_consumer_key'
